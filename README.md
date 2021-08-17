@@ -16,6 +16,7 @@ A repo for what I hope will eventually become a book (in the style of David Seda
 1. Beer Bong (Anna and the Baseball Player)
 2. KY Girl (the neighbor from Kentucky)
 3. ~~Catching a ride~~ Hijacking a car
+4. What does this button do? (Sunroof)
 
 ### Part 4 - "Adulthood"
 1. How Coach got his name
@@ -27,6 +28,6 @@ A repo for what I hope will eventually become a book (in the style of David Seda
 5. Jorge (returning from a batchelor party in ID ... through a blizzard ... to find my girlfriend ... indesposed)
 6. Well Check
 7. Aftermath (of the well-check)
-8. Mighty Wide of You
+8. Mighty Wide of You (Sensitivity Training)
 
 ### Part 5 - Kids
