@@ -22,7 +22,7 @@ A repo for what I hope will eventually become a book (in the style of David Seda
 1. How Coach got his name
 2. Coach's 21st (Audra/Mike, Sonja/Me, Coach/Curb)
 3. Mothers Day
-4. $500 snowball bet
+4. [$500 snowball bet](bet.md)
 4. Two shots and a beer ... and a broken toilet
 5. Goldschlager (waking up in a bank bathroom)
 5. Jorge (returning from a batchelor party in ID ... through a blizzard ... to find my girlfriend ... indesposed)
