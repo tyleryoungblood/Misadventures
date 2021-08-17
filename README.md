@@ -1,5 +1,5 @@
 # Misadventures
-A repo for what I hope will eventually become a book (in the style of David Sedaris) about my friends and our crazy misadventures.
+A repo for what I hope will eventually become a book (in the style of David Sedaris) about my friends, family, and our crazy misadventures.
 
 ## Chapters
 
