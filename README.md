@@ -5,7 +5,8 @@ A repo for what I hope will eventually become a book (in the style of David Seda
 
 ### Part 1 - Childhood
 1. Stacking Hay (getting dad a beer)
-2. Camp (Emily E.)
+2. Child of Satan (my english paper ... and my sister)
+2. Camp (Emily E., Frankinpenis)
 
 ### Part 2 - Highschool
 1. 13 Points (the end of life as I knew it)
@@ -14,14 +15,13 @@ A repo for what I hope will eventually become a book (in the style of David Seda
 ### Part 3 - College
 1. Beer Bong (Anna and the Baseball Player)
 2. KY Girl (the neighbor from Kentucky)
+3. ~~Catching a ride~~ Hijacking a car
 
 ### Part 4 - "Adulthood"
-
-1. $500 snowball bet
-2. How Coach got his name
-3. Coach's 21st (Audra/Mike, Sonja/Me, Coach/Curb)
-4. Mothers Day
-3. ~~Catching a ride~~ Hijacking a car
+1. How Coach got his name
+2. Coach's 21st (Audra/Mike, Sonja/Me, Coach/Curb)
+3. Mothers Day
+4. $500 snowball bet
 4. Two shots and a beer ... and a broken toilet
 5. Goldschlager (waking up in a bank bathroom)
 5. Jorge (returning from a batchelor party in ID ... through a blizzard ... to find my girlfriend ... indesposed)
