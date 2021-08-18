@@ -3,6 +3,8 @@ A repo for what I hope will eventually become a book (in the style of David Seda
 
 ## Chapters
 
+### Part 0 - [Cast](cast.md)
+
 ### Part 1 - Childhood
 1. Stacking Hay (getting dad a beer)
 2. Child of Satan (my english paper ... and my sister)
