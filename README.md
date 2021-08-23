@@ -12,7 +12,8 @@ A repo for what I hope will eventually become a book (in the style of David Seda
 
 ### Part 2 - Highschool
 1. 13 Points (the end of life as I knew it)
-6. Never date a cop's wife
+2. Never date a cop's wife
+3. 7/27/97 (the day Bigs and I almost died)
 
 ### Part 3 - College
 1. Beer Bong (Anna and the Baseball Player)
@@ -27,9 +28,13 @@ A repo for what I hope will eventually become a book (in the style of David Seda
 4. [$500 snowball bet](bet.md)
 4. Two shots and a beer ... and a broken toilet
 5. Goldschlager (waking up in a bank bathroom)
-5. Jorge (returning from a batchelor party in ID ... through a blizzard ... to find my girlfriend ... indesposed)
+5. Jorge (returning from a bachelor party in ID ... through a blizzard ... to find my girlfriend ... indisposed)
 6. Well Check
 7. Aftermath (of the well-check)
 8. Mighty Wide of You (Sensitivity Training)
 
 ### Part 5 - Kids
+1. Fye daddy, fye!
+2. Cookie (with Clay)
+3. All I want for Christmas ... (is a bike for my brother)
+4. Little Man
